@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  ![lol](sss.gif)
+![lol](sss.gif)
 </p>
 <!--
 **keropodium/keropodium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
